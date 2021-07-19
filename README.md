@@ -46,6 +46,6 @@ Follow this link --> ![link](https://github.com/githubteodora/School_District_An
 #### Colclusions:
 1. No material changes can be observed, so the change did not lead to any substantial differences overall;
 2. Top 5 schools: unchanged; 
-3. The overall schore for THS feel slightly from 90.94% to 90.63%;
+3. The overall schore for THS fell slightly from 90.94% to 90.63%;
  
 
